@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Md. Asaduzzaman
-#### I am Web Developer
+#### I am a Web Developer
 I’m a FullStack Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication.
 
 Skills: JS / HTML / CSS/ PHP
