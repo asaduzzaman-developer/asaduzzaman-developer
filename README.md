@@ -8,7 +8,7 @@ Skills: JS / HTML / CSS/ PHP
 - 🌱 I’m currently learning PHP. 
 - 👯 I’m looking to collaborate on github. 
 - 💬 Ask me about anything.
-- 🌐 Visit my website: [asaduzzaman.com](https://asaduzzaman-dev.netlify.app/)
+- 🌐 Visit my website:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asaduzzamandotcom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-asaduzzaman-346409174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m4_mithu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m4_mithu)  
