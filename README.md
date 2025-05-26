@@ -21,5 +21,5 @@ Skills: JS / HTML / CSS/ PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asaduzzaman-developer&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asaduzzamandotcom)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=asaduzzaman-developer)  
 
