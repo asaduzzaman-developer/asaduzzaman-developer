@@ -4,8 +4,8 @@ I’m a FullStack Web developer passionate about making error-free websites with
 
 Skills: JS / HTML / CSS/ PHP/ LARAVEL
 
-- 🔭 I’m currently working on PHP. 
-- 🌱 I’m currently learning PHP. 
+- 🔭 I’m currently working on Laravel. 
+- 🌱 I’m currently learning Laravel. 
 - 👯 I’m looking to collaborate on github. 
 - 💬 Ask me about anything.
 - 🌐 Visit my website:
